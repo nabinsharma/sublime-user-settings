@@ -7,7 +7,10 @@
 	[
 		"iOpener",
 		"Package Control",
+		"SideBarEnhancements",
 		"Sublime Tutor",
-		"Terminal"
+		"SVN",
+		"Terminal",
+		"VCS Gutter"
 	]
 }

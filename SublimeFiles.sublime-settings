@@ -1,0 +1,5 @@
+
+    {
+        "ignore_list": ["*.pyc", "*.class", "*.o", "*.asv"],
+        "start_directory": "C:"
+    }

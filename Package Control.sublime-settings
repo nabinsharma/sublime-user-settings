@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"Glue"
+		"iOpener",
+		"Package Control",
+		"Sublime Tutor",
+		"Terminal"
 	]
 }

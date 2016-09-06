@@ -1,0 +1,4 @@
+{
+    "terminal": "C:\\cygwin\\bin\\mintty.exe" // path to mintty.exe
+    , "parameters": ["-e", "/bin/xhere", "/bin/bash.exe", "%L"]
+}

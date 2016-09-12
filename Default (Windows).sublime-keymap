@@ -12,5 +12,8 @@
     { "keys": ["alt+d"], "command": "delete_word", "args": { "forward": true } },
 
     { "keys": ["alt+u"], "command": "upper_case" },
-    { "keys": ["alt+l"], "command": "lower_case" }
+    { "keys": ["alt+l"], "command": "lower_case" },
+
+    { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+    { "keys": ["ctrl+shift+v"], "command": "paste" }
 ]

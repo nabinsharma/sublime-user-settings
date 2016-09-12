@@ -5,6 +5,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"default_encoding": "UTF-8",
+	"default_font_size": 11.0,
 	"detect_indentation": true,
 	"folder_exclude_patterns":
 	[
@@ -16,7 +17,6 @@
 	[
 		"subpixel_antialias"
 	],
-	"default_font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":

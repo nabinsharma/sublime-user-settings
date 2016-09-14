@@ -14,6 +14,7 @@
     { "keys": ["alt+u"], "command": "upper_case" },
     { "keys": ["alt+l"], "command": "lower_case" },
 
+    { "keys": ["ctrl+shift+a"], "command": "select_all" },
     { "keys": ["ctrl+v"], "command": "paste_and_indent" },
     { "keys": ["ctrl+shift+v"], "command": "paste" },
 

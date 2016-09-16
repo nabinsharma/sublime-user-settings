@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ASCII Decorator",
 		"iOpener",
 		"Package Control",
 		"SideBarEnhancements",
